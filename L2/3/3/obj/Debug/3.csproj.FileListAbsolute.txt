@@ -1,0 +1,7 @@
+C:\Users\Иван\Desktop\ИСП\L\L2\3\3\bin\Debug\3.exe.config
+C:\Users\Иван\Desktop\ИСП\L\L2\3\3\bin\Debug\3.exe
+C:\Users\Иван\Desktop\ИСП\L\L2\3\3\bin\Debug\3.pdb
+C:\Users\Иван\Desktop\ИСП\L\L2\3\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\ИСП\L\L2\3\3\obj\Debug\3.exe
+C:\Users\Иван\Desktop\ИСП\L\L2\3\3\obj\Debug\3.pdb
+C:\Users\Иван\Desktop\ИСП\L\L2\3\3\obj\Debug\3.csprojResolveAssemblyReference.cache

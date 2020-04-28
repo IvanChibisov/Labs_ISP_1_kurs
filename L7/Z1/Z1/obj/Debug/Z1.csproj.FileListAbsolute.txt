@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ИСП\L\L7\Z1\Z1\bin\Debug\Z1.exe.config
+C:\Users\User\Desktop\ИСП\L\L7\Z1\Z1\bin\Debug\Z1.exe
+C:\Users\User\Desktop\ИСП\L\L7\Z1\Z1\bin\Debug\Z1.pdb
+C:\Users\User\Desktop\ИСП\L\L7\Z1\Z1\obj\Debug\Z1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ИСП\L\L7\Z1\Z1\obj\Debug\Z1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ИСП\L\L7\Z1\Z1\obj\Debug\Z1.exe
+C:\Users\User\Desktop\ИСП\L\L7\Z1\Z1\obj\Debug\Z1.pdb

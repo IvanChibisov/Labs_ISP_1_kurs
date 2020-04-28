@@ -1,0 +1,14 @@
+C:\Users\Иван\Desktop\ИСП\L\L3\z1\z1\bin\Debug\z1.exe.config
+C:\Users\Иван\Desktop\ИСП\L\L3\z1\z1\bin\Debug\z1.exe
+C:\Users\Иван\Desktop\ИСП\L\L3\z1\z1\bin\Debug\z1.pdb
+C:\Users\Иван\Desktop\ИСП\L\L3\z1\z1\obj\Debug\z1.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Desktop\ИСП\L\L3\z1\z1\obj\Debug\z1.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\ИСП\L\L3\z1\z1\obj\Debug\z1.exe
+C:\Users\Иван\Desktop\ИСП\L\L3\z1\z1\obj\Debug\z1.pdb
+C:\Users\User\Desktop\ИСП\L\L3\z1\z1\bin\Debug\z1.exe.config
+C:\Users\User\Desktop\ИСП\L\L3\z1\z1\bin\Debug\z1.exe
+C:\Users\User\Desktop\ИСП\L\L3\z1\z1\bin\Debug\z1.pdb
+C:\Users\User\Desktop\ИСП\L\L3\z1\z1\obj\Debug\z1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ИСП\L\L3\z1\z1\obj\Debug\z1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ИСП\L\L3\z1\z1\obj\Debug\z1.exe
+C:\Users\User\Desktop\ИСП\L\L3\z1\z1\obj\Debug\z1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Иван\Desktop\ИСП\L\L2\2z\2z\bin\Debug\2z.exe.config
+C:\Users\Иван\Desktop\ИСП\L\L2\2z\2z\bin\Debug\2z.exe
+C:\Users\Иван\Desktop\ИСП\L\L2\2z\2z\bin\Debug\2z.pdb
+C:\Users\Иван\Desktop\ИСП\L\L2\2z\2z\obj\Debug\2z.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Desktop\ИСП\L\L2\2z\2z\obj\Debug\2z.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\ИСП\L\L2\2z\2z\obj\Debug\2z.exe
+C:\Users\Иван\Desktop\ИСП\L\L2\2z\2z\obj\Debug\2z.pdb
